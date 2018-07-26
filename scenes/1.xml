@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="1" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="1" name="City 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <grad-bg b1="255" b2="255" g1="255" g2="255" r1="204" r2="204"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="0" name="city 1 1" sx="2.1933334" sy="3.0465117" x="169" y="182" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="2" name="cloud 2" sx="0.765625" sy="0.7878788" x="437" y="67" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="2" name="cloud 3" sx="0.671875" sy="0.8787879" x="50" y="76" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="2" name="cloud 4" sx="0.75" sy="0.6666667" x="209" y="25" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
